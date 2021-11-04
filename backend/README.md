@@ -40,4 +40,7 @@ $ npm install
 # Run the application in development mode
 $ npm run dev
 
+## Run Tests
+$ npm run test
+
 # The server will start porta:3003 - acesse <http://localhost:3003>
