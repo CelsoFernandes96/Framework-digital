@@ -26,7 +26,7 @@ Você precisa instalar o pacote nodemon, para que seu aplicativo seja executado 
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/CelsoFernandes96/Framework-digital/tree/master/backend>
+$ git clone <https://github.com/CelsoFernandes96/Framework-digital/tree/main/backend>
 
 # Access the project folder in the / cmd terminal
 $ cd <project_name>
